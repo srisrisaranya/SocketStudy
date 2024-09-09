@@ -1,4 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
+# Register Number:212223110044
+# Name: Saranya S 
 
 ## Aim: 
 To perform a study on Socket Programming
